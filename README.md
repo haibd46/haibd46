@@ -4,9 +4,11 @@
 [![GitHub Stars](https://img.shields.io/github/stars/haibd46?style=for-the-badge&labelColor=black&color=ffd700&logo=github&logoColor=white)](https://github.com/haibd46)
 [![Visitors](https://komarev.com/ghpvc/?username=haibd46&label=PROFILE+VIEWS&style=for-the-badge&labelColor=black&color=00b4d8)](https://github.com/haibd46)
 
-## 🚀 **Đang học**
+## 🎓 **Học vấn**
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C4FF&width=435&lines=Vietnam Maritime University + VMU;" alt="Đang học" />
+  <a href="https://www.vimaru.edu.vn/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00C4FF&width=435&lines=Vietnam+Maritime+University+(VMU);Ng%C3%A0nh%3A+C%C3%B4ng+ngh%E1%BB%87+th%C3%B4ng+tin;Kho%C3%A1%3A+2021+-+2025" alt="VMU Info" />
+  </a>
 </p>
 
 ## 🛠 **Công nghệ & Công cụ**  
