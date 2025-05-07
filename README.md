@@ -6,7 +6,7 @@
 
 ## 🚀 **Đang học**
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C4FF&width=435&lines=Vietnam Maritime University – VMU;" alt="Đang học" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C4FF&width=435&lines=Vietnam Maritime University + VMU;" alt="Đang học" />
 </p>
 
 ## 🛠 **Công nghệ & Công cụ**  
